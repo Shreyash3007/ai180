@@ -1,0 +1,10 @@
+[project]
+name = "ai180"
+version = "0.1.0"
+description = "Working files for the 180-Day AI Engineer Plan v2"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
